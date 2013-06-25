@@ -9,11 +9,18 @@ DEPENDENCIES
 ASP.NET:
 * None
 
+Java:
+* None
+
 PHP:
 * The PHP PEAR mail package must be installed.
 
+Python:
+* None
+
 Ruby:
 * None (actionmailer comes preinstalled)
+
 
 
 
