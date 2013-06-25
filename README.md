@@ -9,5 +9,9 @@ DEPENDENCIES
 PHP:
 * The PHP PEAR mail package must be installed.
 
+Ruby:
+* None (actionmailer comes preinstalled)
+
+
 
 
