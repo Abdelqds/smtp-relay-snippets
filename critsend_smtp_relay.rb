@@ -1,3 +1,5 @@
+#Put in a file like config/initializers/critsend.rb
+
 ActionMailer::Base.smtp_settings = {
        :address => "smtp.critsend.com",
        :port => 587,
